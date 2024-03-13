@@ -2,7 +2,7 @@
 
 ## Program.cs
 
-Błędna nazwa przekazywanego pliku (dataa zmiast data). Zmiana nazwy pliku na data.
+Błędna nazwa przekazywanego pliku (dataa zamiast data). Zmiana nazwy pliku na prawidłową.
 
 ## DataReader.cs
 
